@@ -1,0 +1,49 @@
+{
+  "profileImage": "./images/profile-photo.jpg",
+  "name": "Nathan Louis",
+  "bio": "Artist & Musician",
+  "links": [
+    {
+      "title": "LISTEN TO \"SPIRAL\"",
+      "url": "https://open.spotify.com/track/0lScIDnqekX1sxE9NuHLD9?si=6bd28a5d71114d51",
+      "icon": "./images/friction-red-cover.webp",
+      "fullBleed": true
+    },
+    {
+      "title": "\"PAST SONGS\" (2023)",
+      "url": "https://open.spotify.com/album/522cNJzmSVjQqV8UJ6uABU?si=R0p1wiBjRcOvU7t7l63Kbw",
+      "icon": "https://i.scdn.co/image/ab67616d00001e022a67415a8cdbf7e816f59de8",
+      "fullBleed": true
+    },
+    {
+      "title": "Spotify",
+      "url": "https://open.spotify.com/artist/nathanlouis",
+      "icon": "./images/spotify.svg"
+    },
+    {
+      "title": "Apple Music",
+      "url": "https://music.apple.com/artist/nathanlouis",
+      "icon": "./images/apple-music.svg"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://youtube.com/@nathanlouis",
+      "icon": "./images/youtube.svg"
+    },
+    {
+      "title": "Bandcamp",
+      "url": "https://nathanlouis.bandcamp.com",
+      "icon": "./images/bandcamp.svg"
+    },
+    {
+      "title": "Pandora",
+      "url": "https://pandora.app.link/zKatB5srkVb",
+      "icon": "./images/pandora.svg"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://instagram.com/nathanlouis",
+      "icon": "./images/instagram.svg"
+    }
+  ]
+}

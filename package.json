@@ -1,0 +1,12 @@
+{
+  "name": "nathan-louis-artist-page",
+  "version": "1.0.0",
+  "description": "Nathan Louis artist page with links to streaming platforms",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": ["artist", "links", "streaming"],
+  "author": "Nathan Louis",
+  "license": "MIT"
+}
