@@ -7,7 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet" />
     <style>
       body {
         font-family: 'Inter', sans-serif;
@@ -59,7 +59,7 @@
     /></noscript>
     <!-- End Meta Pixel Code -->
   </head>
-  <body class="bg-[#a50202] min-h-screen">
+  <body class="bg-gradient-to-b from-[#7a0101] to-[#a50202] min-h-screen">
     <!-- Google Tag Manager -->
     <noscript
       ><iframe
@@ -80,11 +80,19 @@
             alt="Nathan Louis"
             class="w-full h-full object-cover" />
         </div>
-        <h1 class="text-2xl font-semibold text-white mb-2">Nathan Louis</h1>
+        <h1 class="text-3xl mb-2 font-bold uppercase text-[#e7ab6f]">Nathan Louis</h1>
+        <div class="flex justify-center">
+          <a href="https://instagram.com/igdaloff" target="_blank" rel="noopener noreferrer" class="inline-block">
+            <img
+              src="./images/instagram.svg"
+              alt="Instagram"
+              class="w-6 h-6 filter hover:opacity-100 transition-opacity duration-200" />
+          </a>
+        </div>
       </div>
 
       <!-- Links Container -->
-      <div id="links-container" class="space-y-4"></div>
+      <div id="links-container" class="space-y-2"></div>
     </div>
 
     <script>
@@ -113,7 +121,7 @@
         linkDiv.innerHTML = `
                 <a href="${link.url}" target="_blank" rel="noopener noreferrer"
                    class="flex items-center p-4 text-decoration-none hover:bg-gray-900 rounded-lg transition-colors duration-200">
-                    <div class="w-12 h-12 rounded-lg overflow-hidden flex-shrink-0 bg-gray-200 flex items-center justify-center">
+                    <div class="w-12 h-12 rounded-lg overflow-hidden flex-shrink-0 bg-white flex items-center justify-center">
                         ${
                           link.icon
                             ? `<img src="${link.icon}" alt="${link.title}" class="${

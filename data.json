@@ -17,17 +17,17 @@
     },
     {
       "title": "Spotify",
-      "url": "https://open.spotify.com/artist/nathanlouis",
+      "url": "https://open.spotify.com/artist/4yIdfevsCqbLiWzi2KfKe9?si=6KDTvwC8R3eH48HK4vBN9Q",
       "icon": "./images/spotify.svg"
     },
     {
       "title": "Apple Music",
-      "url": "https://music.apple.com/artist/nathanlouis",
+      "url": "https://music.apple.com/us/artist/nathan-louis/1688510894",
       "icon": "./images/apple-music.svg"
     },
     {
       "title": "YouTube",
-      "url": "https://youtube.com/@nathanlouis",
+      "url": "https://music.youtube.com/channel/UCdklowSdeyU6Kux0lo1vHvw",
       "icon": "./images/youtube.svg"
     },
     {
@@ -35,15 +35,12 @@
       "url": "https://nathanlouis.bandcamp.com",
       "icon": "./images/bandcamp.svg"
     },
+    { "title": "Deezer", "url": "https://www.deezer.com/us/artist/214297035", "icon": "./images/deezer.svg" },
+    { "title": "Tidal", "url": "https://listen.tidal.com/artist/39526826", "icon": "./images/tidal.svg" },
     {
       "title": "Pandora",
       "url": "https://pandora.app.link/zKatB5srkVb",
       "icon": "./images/pandora.svg"
-    },
-    {
-      "title": "Instagram",
-      "url": "https://instagram.com/nathanlouis",
-      "icon": "./images/instagram.svg"
     }
   ]
 }
