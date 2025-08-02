@@ -10,15 +10,15 @@
       "fullBleed": true
     },
     {
+      "title": "Spotify",
+      "url": "https://open.spotify.com/artist/4yIdfevsCqbLiWzi2KfKe9?si=6KDTvwC8R3eH48HK4vBN9Q",
+      "icon": "./images/spotify.svg"
+    },
+    {
       "title": "\"PAST SONGS\" (2023)",
       "url": "https://open.spotify.com/album/522cNJzmSVjQqV8UJ6uABU?si=R0p1wiBjRcOvU7t7l63Kbw",
       "icon": "https://i.scdn.co/image/ab67616d00001e022a67415a8cdbf7e816f59de8",
       "fullBleed": true
-    },
-    {
-      "title": "Spotify",
-      "url": "https://open.spotify.com/artist/4yIdfevsCqbLiWzi2KfKe9?si=6KDTvwC8R3eH48HK4vBN9Q",
-      "icon": "./images/spotify.svg"
     },
     {
       "title": "Apple Music",
